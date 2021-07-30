@@ -85,6 +85,7 @@
         </configuration>
       </plugin>
     </plugins>
+    <finalName>user-service-docker</finalName>
   </build>
 
 </project>
